@@ -1,0 +1,25 @@
+# Instructions
+Let's use the random module to make a slot machine program that generates some random items.
+
+The items are mostly symbols of common fruits and also sevens (7️⃣). Each round, the slot machine displays three random items. If the play ends up with three sevens, they win!
+
+Final Program Output
+Create a new file called slot_machine.py.
+
+Import in the module that we need.
+
+Create a symbols list and include the following items: '🍒',' 🍇', '🍉', and '7️⃣'.
+
+Next, create a results variable that uses the .choices() method from the imported random module and get three random symbols.
+
+Then, print each value from results, separated by a | pipe character (try string interpolation).
+
+Lastly, use an if/else statement, comparison operators, and logical operators to test the following:
+
+If all of the list items in results are equal to '7️⃣', print 'Jackpot! 💰'.
+Else, print 'Thanks for playing!'.
+Bonus:
+
+Rewrite this program with a play() function.
+Add a loop for the player to keep playing, round after round:
+Ask the player for a 'Y' or 'N' input to keep playing using the input() function.

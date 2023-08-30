@@ -1,0 +1,21 @@
+# Instructions
+Since 1996, the Pokémon video game franchise has delighted players around the world with collectible pocket monsters. A Pokédex is a device that tracks the information for Pokémon that are seen or caught.
+
+Create a new file called pokedex.py.
+
+Next, let's define a Pokemon class with the following attributes:
+
+entry (integer)
+name (string)
+type (list of strings)
+description (string)
+is_caught (boolean)
+Note: Make sure to use the __init__() method.
+
+Next, create an instance method called speak() that returns a string of the sound a Pokémon makes.
+
+Lastly, create three Pokemon class objects and use the speak() instance method for each one. For more information about any Pokémon you want to add, see the Pokédex!
+
+Once you're done, tag us on Twitter!
+
+Are you ready to earn the next badge?

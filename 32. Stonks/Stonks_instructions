@@ -1,0 +1,20 @@
+# Instructions
+In FinTech, we often perform a time series analysis on stocks. This means that we need to analyze a stock, given its price over a certain time.
+
+In this exercise, we will perform a simplified version of a time series analysis.
+
+The stock that we will be analyzing is the $AMC stock from 11/1/2022 to 11/21/2022 (weekdays only). Here are the stock prices (in dollars) for each of these days:
+
+stock_prices = [6.15, 5.81, 5.70, 5.65, 5.33, 5.62, 5.19, 6.13, 7.20, 7.34, 7.95, 7.53, 7.39, 7.59, 7.27]
+
+Create a program stock_analysis.py that implements three functions:
+
+A function max_price(a, b) that finds the maximum price of a stock from day a to day b (inclusive).
+A function min_price(a, b) that finds the minimum price of a stock from day a to day b (inclusive).
+A function price_at(x) that finds the price on a given day x.
+The parameters of the days will be in the range of 1 to 15 (since that is the period for the stock we are analyzing).
+
+Make sure to call each function to test if your functions work correctly!
+
+Bonus: Dig into how to find out when the stock changes from going up to going down and vice versa if you want a bigger challenge. 📈
+

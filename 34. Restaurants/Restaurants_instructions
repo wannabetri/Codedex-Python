@@ -1,0 +1,10 @@
+# Instructions
+Create a Restaurant class in a restaurants.py file with the following attributes:
+
+.name of the type str
+.type of the type str
+.rating of the type float
+.delivery of the type bool
+Make these empty/default values for now.
+
+Nothing should happen when you run the code, because we haven't used it yet. In the next exercise, we will start using this class!

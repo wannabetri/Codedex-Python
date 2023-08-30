@@ -1,0 +1,16 @@
+# Instructions
+Ever wonder how many people live in New York City? What about Tokyo? Or Delhi?
+
+Create a new file called favorite_cities.py.
+
+Let's make a City class that uses the __init__() method to define the following attributes:
+
+name (string)
+country (string)
+population (integer rounded to the nearest thousand people)
+landmarks (list of strings)
+Next, create an object called nyc and assign the attributes mentioned above.
+
+Lastly, make another object of the city or town that you live in!
+
+Bonus: You can add more attributes if you wish, like any nicknames for your hometown!

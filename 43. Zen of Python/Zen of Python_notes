@@ -1,0 +1,39 @@
+# Congrats
+Holy moly! You've reached the end of the final chapter of The Legend of Python! 🧗
+
+In this chapter, we learned about:
+
+Using modules with the import keyword.
+Some built-in modules from the Python standard library.
+Importing specific tools from modules with the from and as keywords.
+Packages and installing them with pip.
+These last few exercises have really tested your Python programming abilities. You made it through them all and you should be super proud of yourself! 🙌
+
+We have one final gift for you.
+
+# Instructions
+Remember when you wrote a letter to yourself called letter.py in the very first chapter? We are giving it back to you!
+
+Please feel free to revisit your letter.py and reflect on what you wrote to yourself all those chapters ago!
+
+Now go back to part 3, "What you are going to accomplish in this course." Instead of saying "In this course, I want to...", say "In this course, I have...", because you worked hard to get to this point!
+
+Here's one last parting gift.
+
+Open your terminal and type python to prompt it for Python code.
+
+Note: If this doesn't work, try running python3 instead.
+
+Then, run the following code for some eternal words of wisdom (or run it on our side editor 👉):
+
+import this
+
+This is a poem written by Tim Peter, a long-time Pythonista who wrote down Python's design style guide using 20 aphorisms. Only 19 are written down. 40+ programs later, you might be able to decipher what Tim's trying to say.
+
+Write this down in your notes. Make sure to keep it on you for the rest of the journey.
+
+The end is just the beginning. We look forward to seeing what you build.
+
+Are you ready to take on the final project?! Feel free to select the "Project" button below if you are.
+
+Go forth and make us proud! (╥﹏╥)

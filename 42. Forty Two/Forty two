@@ -1,0 +1,68 @@
+42. Forty Two
+# Python Packages
+Modules are the .py files that contain definitions for functions, classes, and variables. Packages are the folders that contain the modules.
+
+So far, we have been working with singular modules. However, modules can be collectively used for similar purposes in the form of packages.
+
+This is where things get crazy. There are more than 400,000 Python packages in the world (and that's only counting those on PyPI, the official Python Package Index). You could even build and register your own module with PyPI for other people to use!
+
+Python can tell a regular folder from a package if it has an init.py file, in addition to any other .py files.
+
+Note: Some packages are so large or specialized, that they are sometimes called 'libraries.'
+
+Here are some examples of packages in Python:
+
+NumPy and Matplotlib for data visualization.
+Scikit-learn for machine learning.
+PyGame for building mini-games.
+Beautiful Soup for web scraping.
+Requests assists with talking to the internet.
+These packages are what make Python one of the most versatile languages in existence; you can use it to make all sorts of applications!
+
+# Installing With pip
+While this isn't the only package installer, pip is a popular one!
+
+Note: Installing modules, packages, and libraries is not possible with our editor on the right. To use the following examples and complete the exercise, an external editor like VS Code or a command prompt/terminal will be needed.
+
+Installing packages with pip can be done in the terminal. For example, to download a popular data plotting library called Matplotlib:
+
+pip install matplotlib
+
+If this command doesn't work or you get some kind of "not found" error, try running pip3 install matplotlib.
+
+Note: pip3 is typically used when working with Python 3. Python 2 was retired back in January 2020 (hence why pip may not work every time).
+
+The package can then be imported in a Python file, like so:
+
+import matplotlib
+
+And then to access the various modules, functions, and other tools, we use . dot notation. For example, we can now use Matplotlib's plotly module:
+
+import matplotlib.plotly
+
+# Instructions
+Note: For this exercise, an outside code editor is needed. We recommend using VS Code. Check out this article to get started.
+
+It's time to try out a Python package!
+
+First, on a terminal, make sure pip is installed by running pip3. If not, follow the steps to do so here.
+
+Next, install a package called wikipedia.
+
+pip install wikipedia
+
+Next, create a new file called wiki_search.py.
+
+Then, use the wikipedia package's documentation to search for a phrase of your choice.
+
+A few examples could be:
+
+'Philosophy of life' 4️⃣ 2️⃣
+'Python' 🐍
+'Earth' 🌍
+'Machine learning' 🤖
+Try running this program on the terminal with python wiki_search.py.
+
+Note: If this command doesn't work or you get some kind of "not found" error, try running python3 wiki_search.py.
+
+Nice work! After you're finished, don't forget to tweet your code!
