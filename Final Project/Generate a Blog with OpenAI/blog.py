@@ -6,7 +6,7 @@ import openai
 #config = dotenv_values('.env')
 #openai.api_key = config['API_KEY']
 
-openai.api_key = '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'
+openai.api_key = 'Your key'
 
 def generate_blog(paragraph_topic):
   response = openai.Completion.create(
