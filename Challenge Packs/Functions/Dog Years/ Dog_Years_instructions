@@ -1,0 +1,13 @@
+People say that every one year of a dog's life is roughly equivalent to seven years of a human's life.
+
+Write a dog_years() function that has two parameters:
+
+name (string)
+age (integer)
+It should calculate and return a string featuring the dog's name as well as its age in human years.
+
+For example, if the dogs Landon, Red, and Cooper were 3, 6, and 2 years old respectively, the output would look like:
+
+Landon is 21 years old in human years.
+Red Bean is 42 years old in human years.
+Cooper is 14 years old in human years.

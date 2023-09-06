@@ -1,0 +1,14 @@
+A number is "squared" when it is either multiplied by itself or taken to the second power (e.g., 4² = 4 * 4 = 16).
+
+First, ask the user for an integer using int(input()) and store it in a number variable. Then, define a sum variable with an initial value of 0.
+
+Next, use a for-in loop and range() function to calculate the sum of the squares of all integers from 1 to that number.
+
+Last, print the output as an integer value.
+
+For example, if number is 5, the sum should be 55 because:
+
+1² + 2² + 3² + 4² + 5²
+= 1 + 4 + 9 + 16 + 25
+= 55
+

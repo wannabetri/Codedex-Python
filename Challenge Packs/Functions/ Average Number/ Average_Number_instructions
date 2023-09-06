@@ -1,0 +1,11 @@
+Create an average() function that takes in two parameters:
+
+num1
+num2
+It should calculate and return the average of the two numbers in an answer variable.
+
+The average of x and y is:
+
+(x+y)/2
+
+Note: Do not use the math module.
